@@ -2,3 +2,18 @@
 2. so event driven bisoy ta holo, server e jokhon req ashbe seta tokhon kaj korbe, mane running er opur req ashle running kaj korbe, jdi kaj ta read type er hoy tahole amake bolbe tumi poro, pora sesh hole amake janao! read er porei sathe sathe eta abar kaj korte start korbe, event-driven er maddomei, node.js onk fast kaj kore!
 
 3. so ekhane main kahini ta hosce, javascript er opur ekta library hosce node.js eta muloto backend er bisoy ta manage korar jonno use kora hoy, and ekhane node.js ke aro soja korte framework hisebe express.js er use kora hoy, mane amra jmn raw css er mto tailwind use korsilam eta onkta omoni, overview chrome, V8 engine, then js runtime, then node.js, express js
+
+4. data mane kono kisur nidristo ekta info, and database ei jinista holo kotogulo data ke document akare rakha, ekhane DBMS-DATA BASE MANAGEMENT SYSTEM ei jinista holo ekta softwere jeta data save kora clean kora update kora etc.
+   MySQL
+
+MongoDB
+
+PostgreSQL
+
+Oracle
+
+SQLite
+
+Firebase er maddome kore
+
+5. SQL VS NOSQL etar occaron ta hobe secuel, ekhane sql muloto table akare thake mane, nidristo sequence onujayi thake, ar je data gulo kono sequence onujayi thake na segulo NOSQL,
